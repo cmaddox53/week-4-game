@@ -1,0 +1,43 @@
+
+
+
+.crystal-image{
+	width: 125px;
+	height: 160px;
+}
+
+.text-center{
+	text-align: center;
+}
+
+
+.crystals{
+	
+}
+
+.container{
+	padding-bottom: 25px;
+}
+
+}
+.Number-to-guess{
+	
+	background-color: #FFEBCD;
+	height: 160px;
+}
+
+
+.Win-Lose{
+	background-color: #2ECC71;
+	height: 160px;
+
+}
+
+.Score{
+	background-color: #AF7AC5;
+	height: 160px;
+}
+
+.Result{
+	top: 100px;
+}
